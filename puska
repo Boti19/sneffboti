@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Eloktromos autók</title>
+    <style>
+        *{box-sizing: border-box;}
+    body {background-color: blue;}
+    h1 {background-color: lightblue; color: yellow; text-align: center; padding: 2em;}
+    p {color: white; font-weight: bold; text-align: justify; }
+    .cars { width: 80%; margin-left: 20px; margin-right: 20px; display: flex;
+    flex-direction: row; align-items: space-between;border-left:8px solid green; }
+    img {outline: 5px solid white; width:100%;}
+    .tesla, .bmw, .ford {padding: 20px; }
+    @media screen and (max-width: 800px)
+    {
+    p {font-size:1.5em; color:lightblue, }
+    .cars {display:flex; flex-direction: column; border-left:0;}
+    .tesla, .bmw, .ford {background-color: green; margin-top:20px; }
+    img {border-radius: 45%,}
+    }
+    
+    
+
+
+    </style>
+</head>
+<body>
+    <h1>Elektromos autók</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt provident, ad velit aut voluptatibus obcaecati facilis adipisci ut et harum eum repudiandae eius ipsum quae saepe, facere repellendus, nesciunt eaque.
+    Dolor obcaecati deserunt nesciunt magni corporis eligendi neque perferendis accusamus hic aperiam. Eaque, nemo porro cum dicta explicabo deserunt distinctio quos consequuntur accusantium. Temporibus libero sed fugiat ipsum repudiandae nisi?
+    Maxime accusamus sint ut minima adipisci facere, fugit architecto aliquid facilis voluptates at ipsam! Nostrum illum consequuntur aspernatur assumenda earum maiores temporibus vel laudantium. Laudantium voluptatem distinctio adipisci nemo commodi!
+    Maxime veniam excepturi rerum inventore, explicabo sit dolorum, repellat temporibus itaque illum autem, sunt accusamus. Animi ipsum nulla dolorum cumque optio amet nihil aliquid quis voluptatum expedita possimus, fuga dolores.
+    Deserunt nihil dolor ea ipsum temporibus excepturi exercitationem, delectus corrupti officiis. Mollitia iste explicabo nisi expedita porro saepe quisquam ratione, ipsum, quod dolorem, error nulla deleniti voluptatem. Maiores, exercitationem explicabo!
+    Illo dolor delectus repellat sed ipsum porro dolorem laudantium temporibus! Facilis veniam quidem odio, magnam ex minus maxime, voluptatum asperiores ullam ea alias nemo perferendis, impedit aperiam quisquam quam ipsum.
+    Ipsa amet, quos in explicabo atque et, eligendi tempore iste fuga cupiditate optio commodi incidunt pariatur. Obcaecati, corrupti vero culpa non reiciendis, nesciunt odio magnam atque similique at vel distinctio. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo dicta culpa sapiente doloribus doloremque quis, ratione quisquam saepe, corporis omnis ut incidunt? Ab, sunt aliquam! Quibusdam voluptas accusamus ipsam perspiciatis.3
+
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis debitis esse nostrum? Ex autem quibusdam impedit incidunt magni aut blanditiis sequi. Aliquid ut vero aliquam recusandae similique ipsum, sunt ratione!
+
+    Magnam mollitia repellat est quis, perferendis temporibus! A facere, quaerat magni architecto non iusto esse voluptas ullam, laudantium accusantium in nesciunt illo ipsam veniam hic, dolorum laborum provident alias error.
+
+    Consequuntur explicabo quae iste repellendus hic suscipit ratione voluptate nihil est ipsa reprehenderit minus beatae, velit itaque, voluptas tempore veritatis, accusamus laborum doloremque quo commodi aspernatur. Cupiditate quidem dolore aliquid.
+
+    Inventore repellendus reiciendis blanditiis tenetur ratione fugit, nostrum temporibus accusamus dicta dolorum pariatur quae dolorem. Atque velit quia eius, soluta molestias facilis eligendi vero fuga blanditiis, incidunt ratione. Repellat, assumenda!
+
+    Officiis delectus nostrum corporis nesciunt, odit quibusdam totam ea in quas voluptate distinctio nam? Id quidem odio vero ab deserunt rerum illo, a quos nihil aut velit, corporis, sunt earum!</p>
+</body>
+<div class="cars">
+    <div class="tesla">
+        <div><img src="tesla.jpg" alt="asd"></div><p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente quibusdam cumque voluptas suscipit perspiciatis dolorem porro enim quam molestias illum. Nisi vitae totam distinctio qui cumque ullam voluptatum voluptatem nemo!
+        Consectetur dolor necessitatibus soluta distinctio deleniti. Laudantium reprehenderit quae officia inventore unde aliquid accusantium aperiam nulla minima repellat, alias illum nostrum! Autem blanditiis exercitationem atque quaerat eligendi omnis! Iure, aut.
+        Iure, asperiores! Minima repellendus dignissimos quis temporibus, cupiditate saepe est dolore vitae, totam aspernatur reprehenderit nesciunt ullam exercitationem quod eos at facilis fugit quisquam sint amet consectetur doloremque! Sint, accusantium.
+        Illo quae soluta debitis. Rem impedit error officiis sit ab aliquid enim dolores necessitatibus tenetur inventore ullam, natus voluptates qui voluptatum sed sapiente earum aut? Sint accusantium consectetur eveniet consequuntur.
+        Assumenda tenetur earum quam esse, sint nihil fugit dolorem repellat aliquid consectetur voluptates est eos odio repudiandae dolore ea eligendi alias, quae vero quas a. Rerum facere ratione reprehenderit sint?
+        Iure delectus at error non praesentium fuga neque nisi dolor provident autem unde quae odio, illo esse inventore perferendis. Consequatur nesciunt quas sint cupiditate odio voluptate totam atque facilis porro!
+        Nulla, explicabo cupiditate, ratione ab, corporis accusantium ea iste praesentium iusto nihil nostrum esse quidem consectetur fugiat architecto nisi vero itaque voluptatibus! Neque itaque beatae blanditiis tempore, error laudantium porro!
+        Recusandae voluptate amet, omnis maxime magnam laudantium eos voluptas atque delectus. Quas obcaecati, rerum laudantium est accusamus iusto molestias quae, deleniti quod dignissimos incidunt, ipsum eaque optio impedit sint illum?</p>
+    </div>
+    <div class="ford">
+        <div><img src="ford.jpg" alt="asd"></div><p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente quibusdam cumque voluptas suscipit perspiciatis dolorem porro enim quam molestias illum. Nisi vitae totam distinctio qui cumque ullam voluptatum voluptatem nemo!
+        Consectetur dolor necessitatibus soluta distinctio deleniti. Laudantium reprehenderit quae officia inventore unde aliquid accusantium aperiam nulla minima repellat, alias illum nostrum! Autem blanditiis exercitationem atque quaerat eligendi omnis! Iure, aut.
+        Iure, asperiores! Minima repellendus dignissimos quis temporibus, cupiditate saepe est dolore vitae, totam aspernatur reprehenderit nesciunt ullam exercitationem quod eos at facilis fugit quisquam sint amet consectetur doloremque! Sint, accusantium.
+        Illo quae soluta debitis. Rem impedit error officiis sit ab aliquid enim dolores necessitatibus tenetur inventore ullam, natus voluptates qui voluptatum sed sapiente earum aut? Sint accusantium consectetur eveniet consequuntur.
+        Assumenda tenetur earum quam esse, sint nihil fugit dolorem repellat aliquid consectetur voluptates est eos odio repudiandae dolore ea eligendi alias, quae vero quas a. Rerum facere ratione reprehenderit sint?
+        Iure delectus at error non praesentium fuga neque nisi dolor provident autem unde quae odio, illo esse inventore perferendis. Consequatur nesciunt quas sint cupiditate odio voluptate totam atque facilis porro!
+        Nulla, explicabo cupiditate, ratione ab, corporis accusantium ea iste praesentium iusto nihil nostrum esse quidem consectetur fugiat architecto nisi vero itaque voluptatibus! Neque itaque beatae blanditiis tempore, error laudantium porro!
+        Recusandae voluptate amet, omnis maxime magnam laudantium eos voluptas atque delectus. Quas obcaecati, rerum laudantium est accusamus iusto molestias quae, deleniti quod dignissimos incidunt, ipsum eaque optio impedit sint illum?</p>
+    </div>
+    <div class="bmw">
+        <div><img src="bmw.jpg" alt="asd"></div><p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente quibusdam cumque voluptas suscipit perspiciatis dolorem porro enim quam molestias illum. Nisi vitae totam distinctio qui cumque ullam voluptatum voluptatem nemo!
+        Consectetur dolor necessitatibus soluta distinctio deleniti. Laudantium reprehenderit quae officia inventore unde aliquid accusantium aperiam nulla minima repellat, alias illum nostrum! Autem blanditiis exercitationem atque quaerat eligendi omnis! Iure, aut.
+        Iure, asperiores! Minima repellendus dignissimos quis temporibus, cupiditate saepe est dolore vitae, totam aspernatur reprehenderit nesciunt ullam exercitationem quod eos at facilis fugit quisquam sint amet consectetur doloremque! Sint, accusantium.
+        Illo quae soluta debitis. Rem impedit error officiis sit ab aliquid enim dolores necessitatibus tenetur inventore ullam, natus voluptates qui voluptatum sed sapiente earum aut? Sint accusantium consectetur eveniet consequuntur.
+        Assumenda tenetur earum quam esse, sint nihil fugit dolorem repellat aliquid consectetur voluptates est eos odio repudiandae dolore ea eligendi alias, quae vero quas a. Rerum facere ratione reprehenderit sint?
+        Iure delectus at error non praesentium fuga neque nisi dolor provident autem unde quae odio, illo esse inventore perferendis. Consequatur nesciunt quas sint cupiditate odio voluptate totam atque facilis porro!
+        Nulla, explicabo cupiditate, ratione ab, corporis accusantium ea iste praesentium iusto nihil nostrum esse quidem consectetur fugiat architecto nisi vero itaque voluptatibus! Neque itaque beatae blanditiis tempore, error laudantium porro!
+        Recusandae voluptate amet, omnis maxime magnam laudantium eos voluptas atque delectus. Quas obcaecati, rerum laudantium est accusamus iusto molestias quae, deleniti quod dignissimos incidunt, ipsum eaque optio impedit sint illum?</p>
+    </div>
+</div>
+</html>
